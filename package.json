@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/zllkjc/vercel-test#readme",
   "dependencies": {
-    "koa": "^2.13.1"
+    "koa": "^2.13.1",
+    "express":"^4.17.1",
+    "uuid": "^8.3.2"
   }
 }
